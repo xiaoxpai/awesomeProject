@@ -5,6 +5,8 @@ import (
 	"testing"
 )
 
+//global
+
 func TestName(t *testing.T) {
 	name := "hello"
 	//fmt.Println(name)
